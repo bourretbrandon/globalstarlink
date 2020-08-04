@@ -1,6 +1,8 @@
 # globalstarlink
 A full-featured app to get the most out of tethering your Globalstar GSP-1600/1700 device to your computer.
 
+Brandon Bourret - phatwares@cpan.org
+
 If you have a Globalstar satellite phone (GSP-1600/1700) and a data cable to connect the phone to your computer, this app is for you!
 
 Feature Overview:
